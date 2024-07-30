@@ -198,6 +198,16 @@ header {
   border-radius: 50px;
   border-bottom: 2px solid #6b7552;
 }
+
+#PromoPizzas{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding-top: 20px;
+}
 /* 
 #cardapio div{
 
