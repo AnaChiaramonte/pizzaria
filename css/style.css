@@ -115,3 +115,8 @@ header {
   align-items: center;
   gap: 7px;
 }
+
+.Zap{
+  text-decoration: none;
+  color: #fff;
+}
