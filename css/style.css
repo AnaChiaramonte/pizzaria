@@ -116,7 +116,92 @@ header {
   gap: 7px;
 }
 
-.Zap{
+.Zap {
   text-decoration: none;
   color: #fff;
 }
+
+.ifood {
+  position: fixed;
+  right: 0;
+  top: 200px;
+  box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -10px 10px 10px 0px rgba(0, 0, 0, 0.75);
+}
+
+#BoasVindas {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding-bottom: 15px;
+  background: #f6f6f6;
+}
+
+#BoasVindas img {
+  padding: 0 100px;
+}
+
+#TextosBoasVindas {
+  max-width: 600px;
+  padding-right: 100px;
+}
+
+#TextosBoasVindas h4 {
+  text-transform: uppercase;
+  margin: 0;
+  padding-top: 20px;
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#TextosBoasVindas h3 {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #e7a200;
+  font-size: 23px;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+#TextosBoasVindas p {
+  margin-bottom: 0;
+}
+
+#cardapio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#cardapio img {
+  padding: 36px 0;
+}
+
+#cardapio div img {
+  padding: 0;
+}
+
+#cardapio h2 {
+  text-transform: uppercase;
+  font-size: 28px;
+  color: #d03012;
+  margin: 0 0 7px 0;
+  font-weight: 900;
+}
+
+.btncardapio {
+  text-decoration: none;
+  color: #fff;
+  background: #8daa3e;
+  padding: 10px 20px;
+  border-radius: 50px;
+  border-bottom: 2px solid #6b7552;
+}
+/* 
+#cardapio div{
+
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+} */
