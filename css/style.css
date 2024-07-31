@@ -276,7 +276,7 @@ text-transform: uppercase;
 
 .forms p{
   margin: 0;
-  margin-top: -20px;
+  margin-top: -12px;
   margin-bottom: 13px;
 }
 
@@ -295,7 +295,7 @@ text-transform: uppercase;
   font-weight: 400;
   font-size: 14px;
   width: 80%;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   }
 
   .forms form{
@@ -348,4 +348,6 @@ text-transform: uppercase;
     margin-top: 100px;
   }
 
-  
+  textarea{
+    resize: none;
+  }
