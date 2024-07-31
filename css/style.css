@@ -230,6 +230,20 @@ font-weight: 900;
   justify-content: center;
   padding: 40px;
 }
+
+#icone{
+display: flex;
+justify-content: center;
+gap: 70px;
+margin: 20px 0;
+}
+
+.itens{
+  max-width: 250px;
+  text-align: center;
+}
+
+
 /* 
 #cardapio div{
 
